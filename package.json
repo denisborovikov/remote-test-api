@@ -1,0 +1,13 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed-db": "node initJsonDb"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

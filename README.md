@@ -1,0 +1,1 @@
+This is API server for [remote-test](https://github.com/denisborovikov/remote-test) repository.
